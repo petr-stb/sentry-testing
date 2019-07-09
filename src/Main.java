@@ -3,7 +3,10 @@ public class Main {
         lowLevelMethod();
     }
 
+    /**
+     * The method throwing exception
+     */
     private static void lowLevelMethod() {
-        int result = 1/0;
+        int result = 1 / 0;
     }
 }
