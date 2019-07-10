@@ -14,6 +14,7 @@ public class Main {
      * The method throwing exception
      */
     private static void lowLevelMethod() {
+        // division by zero
         int result = 1 / 0;
     }
 }
