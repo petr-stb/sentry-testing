@@ -3,6 +3,7 @@ public class Main {
     * The main method
     */
     public static void main(String[] args) {
+        System.out.println("The programm started");
         lowLevelMethod();
     }
 
