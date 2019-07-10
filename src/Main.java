@@ -1,3 +1,6 @@
+/**
+* The main class
+*/
 public class Main {
     /**
     * The main method
